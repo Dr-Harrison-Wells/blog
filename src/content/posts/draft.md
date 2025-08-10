@@ -1,16 +1,14 @@
 ---
-title: Draft Example
+title: 草稿示例
 published: 2025-08-10
-tags: [Markdown, .NET Core]
-category: .NET
+tags: [博客美化]
+category: 博客美化
 draft: true
 ---
 
-# This Article is a Draft
+# 本篇文章为草稿
 
-This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
-
-When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter:
+本篇文章是草稿，因此一般用户无法查看，如果需要发布，根据以下格式修改:
 
 ```markdown
 ---
