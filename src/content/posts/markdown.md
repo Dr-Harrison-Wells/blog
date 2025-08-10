@@ -1,9 +1,9 @@
 ---
 title: Markdown Example
-published: 2023-10-01
+published: 2025-08-10
+tags: [Markdown, .NET Core]
 description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
-category: Examples
+category: .NET
 draft: false
 ---
 

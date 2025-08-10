@@ -1,9 +1,9 @@
 ---
 title: Include Video in the Posts
-published: 2023-08-01
+published: 2025-08-10
+tags: [Markdown, .NET Core,ffmpeg]
 description: This post demonstrates how to include embedded video in a blog post.
-tags: [Example, Video]
-category: Examples
+category: React
 draft: false
 ---
 

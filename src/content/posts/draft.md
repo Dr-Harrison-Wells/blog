@@ -1,8 +1,8 @@
 ---
 title: Draft Example
-published: 2022-07-01
-tags: [Markdown, Blogging, Demo]
-category: Examples
+published: 2025-08-10
+tags: [Markdown, .NET Core]
+category: .NET
 draft: true
 ---
 
